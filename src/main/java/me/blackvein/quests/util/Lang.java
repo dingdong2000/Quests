@@ -192,7 +192,7 @@ public class Lang {
         langMap.put("questEditorSetGUI", "Set GUI Item display");
         langMap.put("questEditorReqs", "Edit Requirements");
         langMap.put("questEditorStages", "Edit Stages");
-        langMap.put("questEditorRews", "Edit Rewards");
+        langMap.put("questEditorRews", "Megáltoztatás");
 
         langMap.put("questEditorEnterQuestName", "Enter Quest name (or 'cancel' to return)");
         langMap.put("questEditorEditEnterQuestName", "Enter Quest name to edit, or 'cancel' to return");
